@@ -1,2 +1,1 @@
-# SimplePlatformerGameJavaScript
-SimplePlatformerGameJavaScript
+# Simple Platformer Game 
